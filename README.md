@@ -1,5 +1,5 @@
 # PickUpWeapon
-![Gif](https://raw.github.com/wiki/yutateno/PickUpWeapon/pickupweapon.gif)
+![Gif](https://raw.github.com/wiki/yutateno/PickUpWeapon/pickup.gif)
 <br><br>
 
 対戦型2Dシューティングアクションゲームです。
